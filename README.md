@@ -1,1 +1,1 @@
-# LangChain-Awesome-Prompt-Templates
+# LangChain Awesome Prompt Templates
